@@ -12,7 +12,7 @@ const Footer: React.FC = () => {
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center gap-3 mb-6">
               <div className="p-1.5 bg-white rounded-xl border border-primary-800/50">
-                <img src="/logo.png" alt="شعار الأسوار العالية" className="w-10 h-10 object-contain" />
+                <img src="/logo.svg" alt="شعار الأسوار العالية" className="w-10 h-10 object-contain" />
               </div>
               <span className="text-xl font-bold text-white">شركة الأسوار العالية</span>
             </div>

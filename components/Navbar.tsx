@@ -56,7 +56,7 @@ const Navbar: React.FC<NavbarProps> = ({ scrolled }) => {
             className="flex items-center gap-3 group"
           >
             <div className="p-1.5 rounded-full bg-white transition-transform duration-300 group-hover:scale-105 border-2 border-primary-100 shadow-lg shadow-primary-900/10">
-               <img src="/logo.png" alt="شعار الأسوار العالية" className="w-10 h-10 object-contain" />
+               <img src="/logo.svg" alt="شعار الأسوار العالية" className="w-10 h-10 object-contain" />
             </div>
             <div className="flex flex-col">
               <span className="text-xl font-extrabold leading-none tracking-tight text-primary-900">
